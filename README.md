@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,10 +65,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
