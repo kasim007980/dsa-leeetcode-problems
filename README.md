@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
