@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0326-power-of-three) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0268-missing-number) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
