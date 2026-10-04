@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
