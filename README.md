@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/0342-power-of-four) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kasim007980/dsa-leeetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
 | ------- |
